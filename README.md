@@ -15,4 +15,6 @@ Este projeto consiste na criação de uma loja utilizando o Flutter, ele receber
 
 - Criação de providers para comunicação dos elementos, evitando ficar a uma espécie de Prop Drilling, que podem gerar renderizações desnecessárias;
 - Utilização do widget Consumer para especificar a renderização de algo na tela sem afetar um widget como um todo;
-- Centralizar o estado em um componente só, separando a lógica de componentes espalhados no projeto.
+- Centralizar o estado em um componente só, separando a lógica de componentes espalhados no projeto;
+- Utilização de dialogs, snackbar;
+- Uso de formulários, validadores, erros, entre outros.
